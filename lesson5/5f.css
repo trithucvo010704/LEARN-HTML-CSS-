@@ -1,0 +1,34 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.number {
+    font-size: 24;
+    margin-bottom: 5px;
+
+}
+
+.usd {
+    color: gray;
+    margin-left: 10px;
+    font-size: 14;
+}
+
+.number1 {
+    color: green;
+    margin-bottom: 8;
+
+}
+
+.number2 {
+    color: gray;
+    font-size: 16;
+}
+
+.flag {
+    margin-left: 2;
+    color: red;
+}

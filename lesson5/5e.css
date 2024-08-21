@@ -1,0 +1,41 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+.something_new {
+    color: rgb(245, 99, 0);
+    margin-bottom: 10;
+}
+
+.model {
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 24;
+}
+
+.Title {
+    font-weight: bold;
+    font-size: 45;
+    margin-bottom: 25px;
+
+}
+
+.cost {
+    margin-bottom: 25;
+}
+
+.buy {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    font-weight: bold;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+}

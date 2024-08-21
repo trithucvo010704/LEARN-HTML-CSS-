@@ -1,0 +1,22 @@
+p {
+    font-family: Arial;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.title {
+    line-height: 30px;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subsition {
+    margin-bottom: 20px;
+}
+
+.Link {
+    color: rgb(58, 108, 199);
+}

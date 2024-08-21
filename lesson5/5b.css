@@ -1,0 +1,17 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 20;
+
+    padding-bottom: 8px;
+}
+
+.time_off {
+    font-style: italic;
+    color: red;
+}

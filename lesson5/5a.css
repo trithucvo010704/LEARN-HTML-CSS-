@@ -1,0 +1,10 @@
+p {
+    font-family: Tahoma;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    font-size: 18;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aqua;
+}
